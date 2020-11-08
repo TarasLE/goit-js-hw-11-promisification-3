@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[0],{QfWi:function(n,o){var a=function(n,o,a){var i,t,r=(i=200,t=500,Math.floor(Math.random()*(t-i+1)+i));setTimeout((function(){Math.random()>.3?o(n.id,r):a(n.id)}),r)},i=function(n,o){console.log("Transaction "+n+" processed in "+o+"ms")},t=function(n){console.warn("Error processing transaction "+n+". Please try again later.")};a({id:70,amount:150},i,t),a({id:71,amount:230},i,t),a({id:72,amount:75},i,t),a({id:73,amount:100},i,t)}},[["QfWi",1]]]);
+//# sourceMappingURL=main.671b28c70ca3d305cb50.js.map
